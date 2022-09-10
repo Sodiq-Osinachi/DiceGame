@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\my project\TaskDice\obj\Debug\net5.0\TaskDice.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\my project\TaskDice\obj\Debug\net5.0\TaskDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\my project\TaskDice\obj\Debug\net5.0\TaskDice.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\my project\TaskDice\obj\Debug\net5.0\TaskDice.AssemblyInfo.cs
+C:\Users\user\Desktop\my project\TaskDice\obj\Debug\net5.0\TaskDice.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\my project\TaskDice\bin\Debug\net5.0\TaskDice.exe
+C:\Users\user\Desktop\my project\TaskDice\bin\Debug\net5.0\TaskDice.deps.json
+C:\Users\user\Desktop\my project\TaskDice\bin\Debug\net5.0\TaskDice.runtimeconfig.json
+C:\Users\user\Desktop\my project\TaskDice\bin\Debug\net5.0\TaskDice.runtimeconfig.dev.json
+C:\Users\user\Desktop\my project\TaskDice\bin\Debug\net5.0\TaskDice.dll
+C:\Users\user\Desktop\my project\TaskDice\bin\Debug\net5.0\ref\TaskDice.dll
+C:\Users\user\Desktop\my project\TaskDice\bin\Debug\net5.0\TaskDice.pdb
+C:\Users\user\Desktop\my project\TaskDice\obj\Debug\net5.0\TaskDice.dll
+C:\Users\user\Desktop\my project\TaskDice\obj\Debug\net5.0\ref\TaskDice.dll
+C:\Users\user\Desktop\my project\TaskDice\obj\Debug\net5.0\TaskDice.pdb
+C:\Users\user\Desktop\my project\TaskDice\obj\Debug\net5.0\TaskDice.genruntimeconfig.cache
